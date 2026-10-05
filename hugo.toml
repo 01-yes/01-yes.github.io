@@ -1,0 +1,4 @@
+baseURL = "https://01-yes.github.io/"
+languageCode = "zh-cn"
+title = "张羽的技术博客"
+theme = "minimal"
